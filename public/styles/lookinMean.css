@@ -32,3 +32,8 @@ p {
 .meanieDiv{
   margin-left: 5%;
 }
+.white{
+  background-color: white;
+  width: 50%;
+  float: right;
+}
